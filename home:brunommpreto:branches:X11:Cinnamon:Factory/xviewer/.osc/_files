@@ -1,0 +1,6 @@
+<directory name="xviewer" rev="258ee9d5e3d97e1bc2050d4a3dc99546" srcmd5="258ee9d5e3d97e1bc2050d4a3dc99546">
+  <linkinfo project="X11:Cinnamon:Factory" package="xviewer" srcmd5="9d880e671ed0d354033332540014baa8" baserev="9d880e671ed0d354033332540014baa8" lsrcmd5="20d6d392a45aea122063fafe54ee807d" />
+  <entry name="xviewer-3.0.1.tar.gz" md5="2eca32b04c6895a647ef1469608021d8" size="2543540" mtime="1623923109" />
+  <entry name="xviewer.changes" md5="1d908482692c47955f73aa711284a3d5" size="7444" mtime="1623923051" />
+  <entry name="xviewer.spec" md5="8a9bd2399f1888389c572639b7df0aa2" size="3855" mtime="1623923110" />
+</directory>
